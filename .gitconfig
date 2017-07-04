@@ -1,0 +1,5 @@
+[user]
+    name = Sandro Chakhvashvili
+    email = sandro@sanycha.com
+[core]
+    editor = notepad++.exe -multiInst -nosession
