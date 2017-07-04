@@ -3,3 +3,5 @@
     email = sandro@sanycha.com
 [core]
     editor = notepad++.exe -multiInst -nosession
+[alias]
+    hist = log --all --graph --decorate --oneline
