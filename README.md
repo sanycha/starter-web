@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Sandro test 1
 
 ADDED COPYRIGHT BRANCH
+
+Please fork this repository and then issue pull requests for review.
